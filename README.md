@@ -1,2 +1,2 @@
 # Preprocessing-Data
-Preprocessing Data menggunakan Python
+Tugas data mining
